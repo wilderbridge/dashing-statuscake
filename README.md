@@ -54,5 +54,5 @@ Dashing.numColumns ||= 5
 
 ## Licence
 
-This widget is released under the [MIT License](http://www.opensource.org/licenses/MIT) as was the Pingdopm widget mentioned previously.
+This widget is released under the [MIT License](http://www.opensource.org/licenses/MIT) as was the Pingdom widget mentioned previously.
 
